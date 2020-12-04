@@ -1,0 +1,8 @@
+Lessons Learned:
+
+Floats vs ints etc adds a lot of complexity that was unnecessary.
+Golang does decimal truncation by default when operating on Integers.
+Unit testing framework was easy to pick up!
+Make sure you add a clear delineation between puzzle 1 and puzzle 2.
+Test Test Test!
+Study recursion a bit more, it was clearly quite slow to get started with it.
